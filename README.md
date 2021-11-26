@@ -13,11 +13,11 @@ Laman web ini dihasilkan menggunakan kod HTML.
 Javascript juga digunakan dalam menghasilkan laman web ini. 
 Javascript adalah digunakan untuk membuat laman web kelihatan lebih interaktif. 
 Seterusnya, CSS. CSS digunakan untuk membuat gaya elemen-elemen dalam HTML. 
-CSS dapat memberikan warna background, border,kedudukan posisi elemen, ukuran font kelihatan menarik. 
+CSS dapat memberikan warna background, border,kedudukan posisi elemen, ukuran font untuk kelihatan menarik. 
 Terdapat banyak elemen lain yang digunakan dalam menghasilkan laman web ini. 
 Komen turut digunakan dalam penghasilan laman web ini. 
 Komen biasanya digunakan untuk memberikan maklumat tambahan pada kod HTML dan kadang juga digunakan untuk non-aktif beberapa kod HTML. 
-Ia tidak akand itampilkan di dalam web ini. 
+Ia tidak akan ditampilkan di dalam web ini. 
 Selain itu, kebanyakan tag-tag asas gunakan dalam menghasilkan laman web ini dan ada juga elemen dan atribut yang lain antaranya :
 
 Tag-tag asas HTML :- 
