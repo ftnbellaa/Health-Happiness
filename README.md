@@ -20,11 +20,11 @@ Komen biasanya digunakan untuk memberikan maklumat tambahan pada kod HTML dan ka
 Ia tidak akand itampilkan di dalam web ini. 
 Selain itu, kebanyakan tag-tag asas gunakan dalam menghasilkan laman web ini dan ada juga elemen dan atribut yang lain antaranya :
 
-Tag-tag asas HTML :- <html> - merupakan tag utama untuk halaman HTML.
-<head> - semua elemen head diletakkan di tag ini.
-<title> - menunjukkan tajuk halaman.
-<body> - kandungan halaman. Apa-apa sahaja yang ditulis di body akan dipaparkan pada
-halaman HTML.
+Tag-tag asas HTML :- 
+html - merupakan tag utama untuk halaman HTML.
+head - semua elemen head diletakkan di tag ini.
+title - menunjukkan tajuk halaman.
+body - kandungan halaman. Apa-apa sahaja yang ditulis di body akan dipaparkan pada halaman HTML.
 
 Atribut :-
 Class - Menentukan class CSS yang akan digunakan
